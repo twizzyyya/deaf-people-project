@@ -1,5 +1,5 @@
 input.onSound(DetectedSound.Loud, function () {
-    input.setSoundThreshold(SoundThreshold.Loud, 85)
+    input.setSoundThreshold(SoundThreshold.Loud, 100)
     basic.showLeds(`
         . # . # .
         . # . # .
