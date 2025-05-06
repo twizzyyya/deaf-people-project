@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}[a!Ib^@qruE^)NnGe!s">myImage</variable></variables><block type="input_on_sound" id="KZ.SYp,?IWl{d*p9pUDx" x="0" y="0"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="device_show_leds" id=")f(J{G:$3vsCijwgY%3V"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . # . # .
+        `</field></block></statement></block><block type="input_on_sound" id="aHjgJ$L}sJ:aJi5FAH.@" x="212" y="7"><field name="sound">DetectedSound.Quiet</field><statement name="HANDLER"><block type="device_show_leds" id="#,]Rg`gMzZ[u-Z3*ZNqk"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . # # # .
+        `</field></block></statement></block></xml>
