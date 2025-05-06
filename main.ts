@@ -9,7 +9,7 @@ input.onSound(DetectedSound.Loud, function () {
         `)
 })
 input.onSound(DetectedSound.Quiet, function () {
-    input.setSoundThreshold(SoundThreshold.Quiet, 70)
+    input.setSoundThreshold(SoundThreshold.Quiet, 90)
     basic.showLeds(`
         . # . # .
         . # . # .
